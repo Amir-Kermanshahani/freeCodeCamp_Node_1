@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Amir Kermanshahani",
+	"description " : "The project of freeCodeCamp Node.js course.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
