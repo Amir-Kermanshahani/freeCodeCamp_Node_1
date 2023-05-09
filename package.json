@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author" : "Amir Kermanshahani",
 	"description" : "The project of freeCodeCamp Node.js course.",
-	"keywords" : ["freecodecamp", "course-project", "node.js", "backend-development", "APIs"],
+	"keywords" : ["freecodecamp", "course project", "node.js", "backend development", "APIs"],
 	"license": "MIT",
 	"version": "0.0.1",
 	"dependencies": {
